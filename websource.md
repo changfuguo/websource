@@ -5,3 +5,5 @@
 3、[awesome-redux](https://github.com/xgrommx/awesome-redux)
 
 4、[移动端滑动插件**iSlider**](http://be-fe.github.io/iSlider/demo/index_chinese.html)
+
+5、[各种ployfiy](http://www.tuicool.com/articles/rqM7Zf6)
